@@ -1,4 +1,4 @@
-module github.com/devalexandre/golang-fyne-mkv-to-mp4
+module github.com/devalexandre/mkv2Mp4
 
 go 1.18
 
